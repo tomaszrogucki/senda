@@ -1,0 +1,4 @@
+db/
+env/
+src/wp-config.php
+.DS_Store
